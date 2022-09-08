@@ -1,0 +1,27 @@
+/* 
+.react-timerange-picker, .react-timerange-picker *, .react-timerange-picker *:before, .react-timerange-picker *:after {
+    padding-bottom: 3px !important;
+
+}
+
+.react-timerange-picker, .react-timerange-picker *, .react-timerange-picker *:before, .react-timerange-picker *:after {
+    
+    padding-bottom: 3px;
+    box-sizing: ;
+} */
+
+/* .react-timerange-picker, .react-timerange-picker *, .react-timerange-picker *:before, .react-timerange-picker *:after {
+    box-sizing: border-box;
+    padding-bottom: 3px important!;
+
+} */
+
+.react-timerange-picker, .react-timerange-picker *, .react-timerange-picker *:before, .react-timerange-picker *:after {
+    box-sizing: border-box;
+    padding-bottom: 2px !important;
+}
+
+.react-timerange-picker__inputGroup__leadingZero {
+    padding-bottom: 2px !important;
+
+}

@@ -1,0 +1,55 @@
+.rcw-conversation-container > .rcw-header {
+    background-color: #121212;
+  }
+  
+  .rcw-message > .rcw-response {
+    background-color: #f4f7f9;
+    color: #F8F0E3
+  }
+
+ .rcw-launcher {
+    background-color: #5469d4 !important
+ }
+
+.rcw-conversation-container .rcw-close-button {
+  background-color:  #5469d4;
+}
+
+.rcw-widget-container {
+  max-height: 80vh
+}
+
+.App-header ~ input, p {
+  color: #121212;
+}
+
+.rcw-close-launcher {
+  padding-top: 8px;
+}
+.rcw-conversation-container .rcw-close {
+  padding-right: 11px;
+} 
+.rcw-conversation-container .rcw-close-button {
+  top: 10px;
+  width: 20px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  background-color: #121212;
+
+} 
+/* .rcw-close-button {
+
+} */
+
+ 
+ .rcw-conversation-container .rcw-title {
+  font-size: 20px;
+
+
+}
+
+.rcw-conversation-container .rcw-header {
+  font-size: 15px;
+}
+
